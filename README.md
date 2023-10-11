@@ -1,0 +1,1 @@
+# Flask-desafio-4 atividade desafio WoMakersCode - "Realize o desafio 4: Utilizando Flask para criar um web app com IA: https://learn.microsoft.com/pt-br/training/modules/python-flask-build-ai-web-app/
